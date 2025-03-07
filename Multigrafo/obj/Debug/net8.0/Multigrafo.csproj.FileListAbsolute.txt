@@ -1,0 +1,15 @@
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\bin\Debug\net8.0\Multigrafo.exe
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\bin\Debug\net8.0\Multigrafo.deps.json
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\bin\Debug\net8.0\Multigrafo.runtimeconfig.json
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\bin\Debug\net8.0\Multigrafo.dll
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\bin\Debug\net8.0\Multigrafo.pdb
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\Multigrafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\Multigrafo.AssemblyInfoInputs.cache
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\Multigrafo.AssemblyInfo.cs
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\Multigrafo.csproj.CoreCompileInputs.cache
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\Multigrafo.sourcelink.json
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\Multigrafo.dll
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\refint\Multigrafo.dll
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\Multigrafo.pdb
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\Multigrafo.genruntimeconfig.cache
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\Multigrafo\obj\Debug\net8.0\ref\Multigrafo.dll

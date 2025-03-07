@@ -1,0 +1,15 @@
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\bin\Debug\net8.0\ArvoreRubroNegro.exe
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\bin\Debug\net8.0\ArvoreRubroNegro.deps.json
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\bin\Debug\net8.0\ArvoreRubroNegro.runtimeconfig.json
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\bin\Debug\net8.0\ArvoreRubroNegro.dll
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\bin\Debug\net8.0\ArvoreRubroNegro.pdb
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\ArvoreRubroNegro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\ArvoreRubroNegro.AssemblyInfoInputs.cache
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\ArvoreRubroNegro.AssemblyInfo.cs
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\ArvoreRubroNegro.csproj.CoreCompileInputs.cache
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\ArvoreRubroNegro.sourcelink.json
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\ArvoreRubroNegro.dll
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\refint\ArvoreRubroNegro.dll
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\ArvoreRubroNegro.pdb
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\ArvoreRubroNegro.genruntimeconfig.cache
+C:\Users\FelipeCF\Desktop\Codigos\Csharp\ArvoreRubroNegro\obj\Debug\net8.0\ref\ArvoreRubroNegro.dll
