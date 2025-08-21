@@ -1,0 +1,15 @@
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\bin\Debug\net8.0\Ordenacao.exe
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\bin\Debug\net8.0\Ordenacao.deps.json
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\bin\Debug\net8.0\Ordenacao.runtimeconfig.json
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\bin\Debug\net8.0\Ordenacao.dll
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\bin\Debug\net8.0\Ordenacao.pdb
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\Ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\Ordenacao.AssemblyInfoInputs.cache
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\Ordenacao.AssemblyInfo.cs
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\Ordenacao.sourcelink.json
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\Ordenacao.dll
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\refint\Ordenacao.dll
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\Ordenacao.pdb
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\Ordenacao.genruntimeconfig.cache
+C:\Users\FelipeCF\Desktop\Codigos\Data-Structures\Ordenacao\obj\Debug\net8.0\ref\Ordenacao.dll
