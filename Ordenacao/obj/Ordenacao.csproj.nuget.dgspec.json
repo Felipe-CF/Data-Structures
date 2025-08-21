@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FelipeCF\\Desktop\\Codigos\\Data-Structures\\Ordenacao\\Ordenacao.csproj": {}
+    "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FelipeCF\\Desktop\\Codigos\\Data-Structures\\Ordenacao\\Ordenacao.csproj": {
+    "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FelipeCF\\Desktop\\Codigos\\Data-Structures\\Ordenacao\\Ordenacao.csproj",
+        "projectUniqueName": "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj",
         "projectName": "Ordenacao",
-        "projectPath": "C:\\Users\\FelipeCF\\Desktop\\Codigos\\Data-Structures\\Ordenacao\\Ordenacao.csproj",
-        "packagesPath": "C:\\Users\\FelipeCF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FelipeCF\\Desktop\\Codigos\\Data-Structures\\Ordenacao\\obj\\",
+        "projectPath": "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj",
+        "packagesPath": "C:\\Users\\FelipeCosta\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\FelipeCF\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\FelipeCosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

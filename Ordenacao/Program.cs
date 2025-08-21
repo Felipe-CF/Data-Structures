@@ -2,6 +2,7 @@
 
 class Program
 {
+
     static int[] SelectionSort(int[] array)
     {
         int min;
@@ -20,12 +21,42 @@ class Program
 
         return array;
     }
+
+    static int[] InsertionSort(int[] array)
+    {
+        int min, j;
+        
+        for (int i = 1; i < array.Length; i++)
+        {
+            min = array[i];
+
+            j = i;
+
+            for (; j > 0; j--)
+            {
+                if (min < array[j - 1])
+                    array[j] = array[j - 1];
+
+                else
+                    break;
+            }
+            array[j] = min;
+        }
+
+        return array;
+    }
+
     static void Main(string[] args)
     {
         int[] array = [7, 3, 8, 9, 2, 1];
 
-        array = SelectionSort(array);
+        // array = SelectionSort(array);
+        // foreach (int i in array)
+        //     Console.Write($"{i} ");
 
+        Console.WriteLine();
+
+        array = InsertionSort(array);
         foreach (int i in array)
             Console.Write($"{i} ");
     }
