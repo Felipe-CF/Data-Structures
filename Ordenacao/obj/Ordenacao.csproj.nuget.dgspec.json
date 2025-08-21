@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj": {}
+    "C:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj": {}
   },
   "projects": {
-    "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj": {
+    "C:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj",
+        "projectUniqueName": "C:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj",
         "projectName": "Ordenacao",
-        "projectPath": "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj",
+        "projectPath": "C:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\Ordenacao.csproj",
         "packagesPath": "C:\\Users\\FelipeCosta\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\obj\\",
+        "outputPath": "C:\\Users\\FelipeCosta\\Desktop\\files\\Data-Structures\\Ordenacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FelipeCosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
