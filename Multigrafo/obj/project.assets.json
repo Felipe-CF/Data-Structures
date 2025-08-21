@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FelipeCF\\Desktop\\Codigos\\Csharp\\Multigrafo\\Multigrafo.csproj",
+      "projectUniqueName": "C:\\Users\\FelipeCF\\Desktop\\Data-Structures\\Multigrafo\\Multigrafo.csproj",
       "projectName": "Multigrafo",
-      "projectPath": "C:\\Users\\FelipeCF\\Desktop\\Codigos\\Csharp\\Multigrafo\\Multigrafo.csproj",
+      "projectPath": "C:\\Users\\FelipeCF\\Desktop\\Data-Structures\\Multigrafo\\Multigrafo.csproj",
       "packagesPath": "C:\\Users\\FelipeCF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FelipeCF\\Desktop\\Codigos\\Csharp\\Multigrafo\\obj\\",
+      "outputPath": "C:\\Users\\FelipeCF\\Desktop\\Data-Structures\\Multigrafo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FelipeCF\\AppData\\Roaming\\NuGet\\NuGet.Config"

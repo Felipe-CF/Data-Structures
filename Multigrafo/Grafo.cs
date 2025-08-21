@@ -143,7 +143,7 @@ public class Grafo : Multigrafo{
 
     }
 
-    public Aresta inserirAresta(Vertice v, Vertice w, Object o){
+    public Aresta inserirAresta(Vertice v, Vertice w, Object o, int p){
         if(v == null || w == null){
             Console.WriteLine("um ou mais vertices passados são vazios");
             return null;
@@ -155,6 +155,8 @@ public class Grafo : Multigrafo{
             Vertice v2 = buscaVertice(w);
 
             Aresta a = new Aresta(v1, v2, o);
+
+            a.peso = p;
 
             arestas.Add(a);
 

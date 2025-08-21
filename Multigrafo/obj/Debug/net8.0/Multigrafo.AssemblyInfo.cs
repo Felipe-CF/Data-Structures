@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multigrafo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26ec27c3ac13b71caab9c2a23f5e633e2669d27d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b17fed456701b24a29ae1571c7be0736227bd06a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multigrafo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multigrafo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

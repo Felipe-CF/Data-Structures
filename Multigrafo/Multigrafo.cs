@@ -8,7 +8,7 @@ public interface Multigrafo{
     void substituir(Vertice v, Object x);
     void substituir(Aresta a, Object x);
     Vertice inserirVertice(Object o);
-    Aresta inserirAresta(Vertice v, Vertice w, Object o);
+    Aresta inserirAresta(Vertice v, Vertice w, Object o, int p);
     Object removeVertice(Vertice v);
     Object removeAresta(Aresta a);
     }
