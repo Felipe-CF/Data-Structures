@@ -1,4 +1,6 @@
-﻿namespace Ordenacao;
+﻿using System.Runtime.CompilerServices;
+
+namespace Ordenacao;
 
 class Program
 {
@@ -46,17 +48,91 @@ class Program
         return array;
     }
 
+    static int[] BubbleSort(int[] array)
+    {
+        bool permutacao = true;
+
+        while (permutacao == true)
+        {
+            permutacao = false;
+
+            for (int i = 0; i < array.Length-1; i++)
+            {
+                int aux;
+
+                if (array[i] > array[i + 1])
+                {
+                    aux = array[i + 1];
+
+                    array[i + 1] = array[i];
+
+                    array[i] = aux;
+                    
+                    permutacao = true;
+                }
+            }
+        }
+
+        return array;
+        
+    }
+
+    static void MergeSort(int[] array, int inicio, int fim)
+    {
+        if (fim - inicio > 1)
+        {
+            int meio = (inicio + fim) / 2;
+            MergeSort(array, inicio, meio);
+            MergeSort(array, meio, fim);
+            Merge(array, inicio, meio, fim);
+        }
+    }
+
+    static void Merge(int[] array, int inicio, int meio, int fim)
+    {
+        int[] array_left = array[inicio..meio];
+
+        int[] array_right = array[meio..fim];
+
+        int i=0, j=0, k=inicio;
+
+        while (k < fim)
+        {
+            if (i >= array_left.Length)
+                array[k] = array_right[j++];
+
+            else if (j >= array_right.Length)
+                array[k] = array_left[i++];
+
+            else
+            {
+                if (array_left[i] <= array_right[j])
+                    array[k] = array_left[i++];
+
+                else
+                    array[k] = array_right[j++];
+            }
+
+            k++; 
+        }
+    }
+
+    static int[] QuickSort(int[] array)
+    {
+        return [];
+    }
+
     static void Main(string[] args)
     {
-        int[] array = [7, 3, 8, 9, 2, 1];
+        int[] array = [7, 3, 8, 0, 9, 2, 1];
 
         // array = SelectionSort(array);
-        // foreach (int i in array)
-        //     Console.Write($"{i} ");
+        // array = InsertionSort(array);
+        // array = BubbleSort(array);
+        // MergeSort(array, 0, array.Length);
+        // Console.WriteLine();
 
-        Console.WriteLine();
 
-        array = InsertionSort(array);
         foreach (int i in array)
             Console.Write($"{i} ");
     }
