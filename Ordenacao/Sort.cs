@@ -1,8 +1,8 @@
-
+namespace Ordenacao;
 
 public class SortAlgorithm
 {
-        public static int[] SelectionSort(int[] array)
+    public static int[] SelectionSort(int[] array)
     {
         int min;
         for (int i = 0; i < array.Length - 1; i++)
